@@ -20,7 +20,7 @@ html {
 body {
   margin: .75em;
   margin-left: 0;
-  line-height: 1
+  line-height: 1;
 }
 
 .cards {
@@ -64,7 +64,7 @@ body {
 
   .card-body {
     display: inline-block;
-    width: 75%
+    width: 75%;
   }
 
   .card-img {
